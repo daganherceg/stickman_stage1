@@ -1,0 +1,19 @@
+CONFIG
+1. Size - string (tiny, normal, large, giant)
+2. Starting position (x coordinate)
+3. Starting velocity
+4. Background image
+5. Undefined
+
+IMPLEMENTATION
+- read from config file
+- create stickman in specified size
+- background moves
+- ONE CREATIONAL design pattern
+- Config file error handling
+
+EXTENTIONS
+- sound effects
+- ability to change colors and position and size from within the stickman (save changes to new config file)
+- pause, resume
+- animating the stickman
